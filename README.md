@@ -11,7 +11,7 @@ product categories, and transaction patterns.
 ## Tools
 
 - MySQL
-- MySQL Workbench
+- MySQL Workbench 
 - SQL 
  
 ## Dataset
