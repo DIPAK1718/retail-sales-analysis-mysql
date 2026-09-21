@@ -9,7 +9,7 @@ business-oriented SQL queries to understand sales, customers,
 product categories, and transaction patterns.
 
 ## Tools 
-
+ 
 - MySQL
 - MySQL Workbench 
 - SQL 
