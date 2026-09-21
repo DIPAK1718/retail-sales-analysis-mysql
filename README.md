@@ -15,7 +15,7 @@ product categories, and transaction patterns.
 - SQL 
  
 ## Dataset
-
+ 
 The dataset contains retail transaction information including:
 
 - Transaction ID
