@@ -12,7 +12,7 @@ product categories, and transaction patterns.
 
 - MySQL
 - MySQL Workbench
-- SQL
+- SQL 
 
 ## Dataset
 
