@@ -13,7 +13,7 @@ product categories, and transaction patterns.
 - MySQL
 - MySQL Workbench
 - SQL 
-
+ 
 ## Dataset
 
 The dataset contains retail transaction information including:
