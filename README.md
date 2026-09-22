@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project analyzes retail sales transaction data using MySQL.  
-
+ 
 The project focuses on data validation, exploratory analysis, and 
 business-oriented SQL queries to understand sales, customers,
 product categories, and transaction patterns.
