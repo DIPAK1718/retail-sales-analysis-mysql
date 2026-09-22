@@ -8,7 +8,7 @@ The project focuses on data validation, exploratory analysis, and
 business-oriented SQL queries to understand sales, customers,
 product categories, and transaction patterns.
 
-## Tools 
+## Tools  
   
 - MySQL
 - MySQL Workbench 
